@@ -33,7 +33,4 @@ Office: Pathology 142
 
 📧 **Email**: [kiemen@jhmi.edu](mailto:kiemen@jhmi.edu)
 
----
 
-## 🌐 Connect With Us
-Visit our [GitHub Organization](https://github.com/Kiemen-Lab) to explore our projects and contributions!
